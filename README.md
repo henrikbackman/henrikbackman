@@ -13,11 +13,11 @@
 - Father of 2 👨‍👦‍👦
 - Watcher of ⚽️
 
+---
 
-
-<!---
-henrikbackman/henrikbackman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=henrikbackman&layout=compact)](https://github.com/henrikbackman/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikbackman&layout=compact">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,css,docker,figma,git,github,heroku,html,ai,js,md,ps,py,react,sass,svg,vscode&perline=6">
+</p>

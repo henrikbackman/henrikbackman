@@ -2,8 +2,8 @@
 
 ## Contact
 
-- [🌐 henrikbackman.com](https://www.henrikbackman.com)
-- [💌 henrik.backman@gmail.com](mailto:henrik.backman@gmail.com)
+- [🔗 henrikbackman.com](https://www.henrikbackman.com)
+- [✉️ henrik.backman@gmail.com](mailto:henrik.backman@gmail.com)
 
 
 
